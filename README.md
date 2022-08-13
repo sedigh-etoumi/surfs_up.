@@ -8,4 +8,11 @@ June Analysis:
   After we generate DataFrame summary we got the results in the following screenshot.
   ![](https://github.com/sedigh-etoumi/surfs_up./blob/main/June_Summary.png)
   
+December Analysis:
+   We retrieved all the temperatures for the month of December. We will then convert those temperatures to a list, create a DataFrame from the list, and generate            the summary statistics. 
+   After we generate DataFrame summary we got the results in the following screenshot.
+  ![](https://github.com/sedigh-etoumi/surfs_up./blob/main/December_Summary.png)
+   
+
+  
   
