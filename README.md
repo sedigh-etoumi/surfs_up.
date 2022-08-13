@@ -12,6 +12,10 @@ December Analysis and Results:
    We retrieved all the temperatures for the month of December. We will then convert those temperatures to a list, create a DataFrame from the list, and generate            the summary statistics. 
    After we generate DataFrame summary we got the results in the following screenshot.
   ![](https://github.com/sedigh-etoumi/surfs_up./blob/main/December_Summary.png)
+  
+Summary:
+
+  As we see from the previous analysis and screenshots, from the count in the summary statistics, we found the summer season June is better than December. 
    
 
   
