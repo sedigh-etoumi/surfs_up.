@@ -6,5 +6,6 @@ Overview:
 June Analysis:
   We are going to use Python, Pandas functions and methods, and SQLAlchemy, we filter the date column of the Measurements table in the hawaii.sqlite database to           retrieve all the temperatures for the month of June. we will then convert those temperatures to a list, create a DataFrame from the list, and generate the summary       statistics. 
   After we generate DataFrame summary we got the results in the following screenshot.
+  ![](https://github.com/sedigh-etoumi/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibilty.png)
   
   
